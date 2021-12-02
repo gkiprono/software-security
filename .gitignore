@@ -1,0 +1,3 @@
+
+# .git folders
+rm -rf .git

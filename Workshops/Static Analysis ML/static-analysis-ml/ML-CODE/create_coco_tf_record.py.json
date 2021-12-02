@@ -1,0 +1,131 @@
+{
+  "errors": [],
+  "generated_at": "2021-10-26T03:47:58Z",
+  "metrics": {
+    "_totals": {
+      "CONFIDENCE.HIGH": 6.0,
+      "CONFIDENCE.LOW": 0.0,
+      "CONFIDENCE.MEDIUM": 1.0,
+      "CONFIDENCE.UNDEFINED": 0.0,
+      "SEVERITY.HIGH": 0.0,
+      "SEVERITY.LOW": 6.0,
+      "SEVERITY.MEDIUM": 1.0,
+      "SEVERITY.UNDEFINED": 0.0,
+      "loc": 458,
+      "nosec": 0
+    },
+    "create_coco_tf_record.py": {
+      "CONFIDENCE.HIGH": 6.0,
+      "CONFIDENCE.LOW": 0.0,
+      "CONFIDENCE.MEDIUM": 1.0,
+      "CONFIDENCE.UNDEFINED": 0.0,
+      "SEVERITY.HIGH": 0.0,
+      "SEVERITY.LOW": 6.0,
+      "SEVERITY.MEDIUM": 1.0,
+      "SEVERITY.UNDEFINED": 0.0,
+      "loc": 458,
+      "nosec": 0
+    }
+  },
+  "results": [
+    {
+      "code": "73                        'Validation annotations JSON file for DensePose.')\n74 tf.flags.DEFINE_string('output_dir', '/tmp/', 'Output data directory.')\n75 # Whether to only produce images/annotations on person class (for keypoint /\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "MEDIUM",
+      "issue_severity": "MEDIUM",
+      "issue_text": "Probable insecure usage of temp file/directory.",
+      "line_number": 74,
+      "line_range": [
+        74
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b108_hardcoded_tmp_directory.html",
+      "test_id": "B108",
+      "test_name": "hardcoded_tmp_directory"
+    },
+    {
+      "code": "475 def main(_):\n476   assert FLAGS.train_image_dir, '`train_image_dir` missing.'\n477   assert FLAGS.val_image_dir, '`val_image_dir` missing.'\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "HIGH",
+      "issue_severity": "LOW",
+      "issue_text": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+      "line_number": 476,
+      "line_range": [
+        476
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b101_assert_used.html",
+      "test_id": "B101",
+      "test_name": "assert_used"
+    },
+    {
+      "code": "476   assert FLAGS.train_image_dir, '`train_image_dir` missing.'\n477   assert FLAGS.val_image_dir, '`val_image_dir` missing.'\n478   assert FLAGS.test_image_dir, '`test_image_dir` missing.'\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "HIGH",
+      "issue_severity": "LOW",
+      "issue_text": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+      "line_number": 477,
+      "line_range": [
+        477
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b101_assert_used.html",
+      "test_id": "B101",
+      "test_name": "assert_used"
+    },
+    {
+      "code": "477   assert FLAGS.val_image_dir, '`val_image_dir` missing.'\n478   assert FLAGS.test_image_dir, '`test_image_dir` missing.'\n479   assert FLAGS.train_annotations_file, '`train_annotations_file` missing.'\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "HIGH",
+      "issue_severity": "LOW",
+      "issue_text": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+      "line_number": 478,
+      "line_range": [
+        478
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b101_assert_used.html",
+      "test_id": "B101",
+      "test_name": "assert_used"
+    },
+    {
+      "code": "478   assert FLAGS.test_image_dir, '`test_image_dir` missing.'\n479   assert FLAGS.train_annotations_file, '`train_annotations_file` missing.'\n480   assert FLAGS.val_annotations_file, '`val_annotations_file` missing.'\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "HIGH",
+      "issue_severity": "LOW",
+      "issue_text": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+      "line_number": 479,
+      "line_range": [
+        479
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b101_assert_used.html",
+      "test_id": "B101",
+      "test_name": "assert_used"
+    },
+    {
+      "code": "479   assert FLAGS.train_annotations_file, '`train_annotations_file` missing.'\n480   assert FLAGS.val_annotations_file, '`val_annotations_file` missing.'\n481   assert FLAGS.testdev_annotations_file, '`testdev_annotations_file` missing.'\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "HIGH",
+      "issue_severity": "LOW",
+      "issue_text": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+      "line_number": 480,
+      "line_range": [
+        480
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b101_assert_used.html",
+      "test_id": "B101",
+      "test_name": "assert_used"
+    },
+    {
+      "code": "480   assert FLAGS.val_annotations_file, '`val_annotations_file` missing.'\n481   assert FLAGS.testdev_annotations_file, '`testdev_annotations_file` missing.'\n482 \n483   if not tf.gfile.IsDirectory(FLAGS.output_dir):\n",
+      "filename": "create_coco_tf_record.py",
+      "issue_confidence": "HIGH",
+      "issue_severity": "LOW",
+      "issue_text": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+      "line_number": 481,
+      "line_range": [
+        481,
+        482
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/latest/plugins/b101_assert_used.html",
+      "test_id": "B101",
+      "test_name": "assert_used"
+    }
+  ]
+}

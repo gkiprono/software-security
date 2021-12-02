@@ -1,0 +1,2106 @@
+[
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 80
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 92
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 93
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 118
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 181
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 212
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 256
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 288
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 311
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 334
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 357
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\baseline.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 65
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\baseline.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 77
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\baseline.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 182
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\cli_interface.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 144
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "MEDIUM",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Probable insecure usage of temp file/directory.",
+                "LINE_NO": 74
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 476
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 477
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 478
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 479
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 480
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 481
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\dataloader.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 279
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\dataloader.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 294
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\datasets.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Consider possible security implications associated with cPickle module.",
+                "LINE_NO": 26
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\datasets.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+                "LINE_NO": 55
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "MEDIUM",
+                "SEVERITY": "LOW",
+                "NAME": "Possible hardcoded password: '</s>'",
+                "LINE_NO": 26
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 59
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 63
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "MEDIUM",
+                "SEVERITY": "LOW",
+                "NAME": "Possible hardcoded password: 'token_id'",
+                "LINE_NO": 139
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 51
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 52
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 53
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 58
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\flownet.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 33
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\flownet.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 44
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\flownet.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 45
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\formatInput.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Consider possible security implications associated with pickle module.",
+                "LINE_NO": 13
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\formatInput.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+                "LINE_NO": 63
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\generate_labeled_rnn_data.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "MEDIUM",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Probable insecure usage of temp file/directory.",
+                "LINE_NO": 33
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 46
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 76
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 110
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 112
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 118
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 122
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 146
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 164
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 200
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 220
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 231
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 244
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 269
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 294
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 307
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 310
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 311
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 316
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 320
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 321
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 325
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 341
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 356
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 365
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 392
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 444
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 543
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 545
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 600
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 605
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\layers.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 59
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\layers.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 173
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\logger.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Consider possible security implications associated with pickle module.",
+                "LINE_NO": 1
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\logger.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+                "LINE_NO": 92
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\loss.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 18
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\losses.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 73
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\losses.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 268
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\lr_scheduler.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 29
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_6class.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "HIGH",
+                "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+                "LINE_NO": 45
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_6class.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "HIGH",
+                "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+                "LINE_NO": 49
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_8class.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "HIGH",
+                "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+                "LINE_NO": 44
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_8class.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "HIGH",
+                "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+                "LINE_NO": 48
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\mapillary.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 34
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\mapillary.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 50
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\metrics.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 108
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\modules.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 47
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\reader.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 50
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\resnet2.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 41
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\resnet2.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 117
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\resnet4.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 31
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\resnet4.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 85
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 42
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 45
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 49
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 50
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\run_eval.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 38
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\run_eval.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 39
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\run_pretraining.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "MEDIUM",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Probable insecure usage of temp file/directory.",
+                "LINE_NO": 186
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\run_squad.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Consider possible security implications associated with pickle module.",
+                "LINE_NO": 25
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\run_squad.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+                "LINE_NO": 270
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\SECTrainingIter.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Consider possible security implications associated with cPickle module.",
+                "LINE_NO": 2
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\SECTrainingIter.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "MEDIUM",
+                "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+                "LINE_NO": 129
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\SEresnext.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 370
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\test_audio.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 20
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\test_data_samplers.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+                "LINE_NO": 115
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\test_data_samplers.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 144
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 13
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 15
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 22
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 24
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 41
+            }
+        },
+        {
+            "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 63
+            }
+        }
+    ],
+    [
+        {
+            "FILENAME": ".\\ML-CODE\\_performance.py.json",
+            "ALERTS": {
+                "CONFIDENCE": "HIGH",
+                "SEVERITY": "LOW",
+                "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+                "LINE_NO": 53
+            }
+        }
+    ],
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 80
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 92
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 93
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 118
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 181
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 212
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 256
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 288
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 311
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 334
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\augmentation_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 357
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\baseline.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 65
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\baseline.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 77
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\baseline.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 182
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\cli_interface.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 144
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "MEDIUM",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Probable insecure usage of temp file/directory.",
+            "LINE_NO": 74
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 476
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 477
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 478
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 479
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 480
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\create_coco_tf_record.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 481
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\dataloader.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 279
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\dataloader.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 294
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\datasets.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Consider possible security implications associated with cPickle module.",
+            "LINE_NO": 26
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\datasets.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+            "LINE_NO": 55
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "MEDIUM",
+            "SEVERITY": "LOW",
+            "NAME": "Possible hardcoded password: '</s>'",
+            "LINE_NO": 26
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 59
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 63
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\data_utils.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "MEDIUM",
+            "SEVERITY": "LOW",
+            "NAME": "Possible hardcoded password: 'token_id'",
+            "LINE_NO": 139
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 51
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 52
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 53
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\feature_io.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 58
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\flownet.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 33
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\flownet.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 44
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\flownet.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 45
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\formatInput.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Consider possible security implications associated with pickle module.",
+            "LINE_NO": 13
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\formatInput.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+            "LINE_NO": 63
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\generate_labeled_rnn_data.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "MEDIUM",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Probable insecure usage of temp file/directory.",
+            "LINE_NO": 33
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 46
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 76
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 110
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 112
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 118
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 122
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 146
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 164
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 200
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 220
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 231
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 244
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 269
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 294
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 307
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 310
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 311
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 316
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 320
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 321
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 325
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 341
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 356
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 365
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 392
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 444
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 543
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 545
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 600
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\joint_transforms.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 605
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\layers.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 59
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\layers.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 173
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\logger.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Consider possible security implications associated with pickle module.",
+            "LINE_NO": 1
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\logger.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+            "LINE_NO": 92
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\loss.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 18
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\losses.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 73
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\losses.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 268
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\lr_scheduler.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 29
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_6class.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "HIGH",
+            "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+            "LINE_NO": 45
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_6class.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "HIGH",
+            "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+            "LINE_NO": 49
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_8class.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "HIGH",
+            "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+            "LINE_NO": 44
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\make_splits_size-48-80_8class.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "HIGH",
+            "NAME": "Starting a process with a shell, possible injection detected, security issue.",
+            "LINE_NO": 48
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\mapillary.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 34
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\mapillary.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 50
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\metrics.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 108
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\modules.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 47
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\reader.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 50
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\resnet2.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 41
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\resnet2.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 117
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\resnet4.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 31
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\resnet4.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 85
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 42
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 45
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 49
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\roidb2.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 50
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\run_eval.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 38
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\run_eval.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 39
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\run_pretraining.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "MEDIUM",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Probable insecure usage of temp file/directory.",
+            "LINE_NO": 186
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\run_squad.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Consider possible security implications associated with pickle module.",
+            "LINE_NO": 25
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\run_squad.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+            "LINE_NO": 270
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\SECTrainingIter.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Consider possible security implications associated with cPickle module.",
+            "LINE_NO": 2
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\SECTrainingIter.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "MEDIUM",
+            "NAME": "Pickle and modules that wrap it can be unsafe when used to deserialize untrusted data, possible security issue.",
+            "LINE_NO": 129
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\SEresnext.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 370
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_audio.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 20
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_data_samplers.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+            "LINE_NO": 115
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_data_samplers.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 144
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 13
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 15
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 22
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 24
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 41
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\test_frontend.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 63
+        }
+    },
+    {
+        "FILENAME": ".\\ML-CODE\\_performance.py.json",
+        "ALERTS": {
+            "CONFIDENCE": "HIGH",
+            "SEVERITY": "LOW",
+            "NAME": "Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.",
+            "LINE_NO": 53
+        }
+    }
+]

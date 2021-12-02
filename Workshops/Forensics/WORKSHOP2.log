@@ -1,0 +1,24 @@
+INFO:root:09/05/2021 16:11:403.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)]
+INFO:root:09/05/2021 16:11:40 program started
+INFO:root:sepal length (cm)    float64
+sepal width (cm)     float64
+petal length (cm)    float64
+petal width (cm)     float64
+dtype: object
+INFO:root:<class 'sklearn.utils.Bunch'>
+INFO:root:09/05/2021 16:11:40 file loaded
+INFO:root:09/05/2021 16:11:40 Prediction
+INFO:root:<built-in method __sizeof__ of Bunch object at 0x000001FFC26C3DB0>
+INFO:root:<class 'sklearn.utils.Bunch'>
+INFO:root:type auto
+INFO:root:09/05/2021 16:11:40 starting regression
+INFO:root:09/05/2021 16:11:40 diabetes dataset loaded
+INFO:root:09/05/2021 16:11:40{'non_deterministic': False, 'requires_positive_X': False, 'requires_positive_y': False, 'X_types': ['2darray'], 'poor_score': False, 'no_validation': False, 'multioutput': True, 'allow_nan': False, 'stateless': False, 'multilabel': False, '_skip_test': False, '_xfail_checks': False, 'multioutput_only': False, 'binary_only': False, 'requires_fit': True, 'preserves_dtype': [<class 'numpy.float64'>], 'requires_y': True, 'pairwise': False}
+INFO:root:<class 'sklearn.utils.Bunch'>
+INFO:root:<method-wrapper '__len__' of Bunch object at 0x000001FFC2CEBC20>
+INFO:root:09/05/2021 16:11:40 starting deeplearning
+INFO:root:09/05/2021 16:11:40 mnist datasets loaded successfully
+INFO:root:09/05/2021 16:11:41 compiling the model
+INFO:root:09/05/2021 16:11:41training the model
+INFO:root:09/05/2021 16:12:03 prediciton
+INFO:root:09/05/2021 16:12:04 end

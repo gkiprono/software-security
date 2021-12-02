@@ -1,0 +1,18 @@
+INFO:root:09/03/2021 23:55:12 program started
+INFO:root:09/03/2021 23:55:12 file loaded
+INFO:root:09/03/2021 23:55:12 Prediction
+INFO:root:09/03/2021 23:55:12 starting regression
+INFO:root:09/03/2021 23:55:12 starting deeplearning
+INFO:root:09/03/2021 23:55:12 end
+INFO:root:09/03/2021 23:57:07 program started
+INFO:root:sepal length (cm)    float64
+sepal width (cm)     float64
+petal length (cm)    float64
+petal width (cm)     float64
+dtype: object
+INFO:root:<class 'sklearn.utils.Bunch'>
+INFO:root:09/03/2021 23:57:07 file loaded
+INFO:root:09/03/2021 23:57:07 Prediction
+INFO:root:09/03/2021 23:57:07 starting regression
+INFO:root:09/03/2021 23:57:07 starting deeplearning
+INFO:root:09/03/2021 23:57:07 end

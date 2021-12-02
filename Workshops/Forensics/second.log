@@ -1,0 +1,6 @@
+WARNING:root:Exception in main()
+ERROR:root:Exception in main()
+Traceback (most recent call last):
+  File "C:\Gabriel\School\Coursework\Fall 21\4585\Workshops\Forensics\logfile.py", line 13, in <module>
+    exit(main())
+NameError: name 'main' is not defined
